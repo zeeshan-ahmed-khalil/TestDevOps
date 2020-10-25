@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOpsTest", "DevOpsTest.csproj", "{A1405640-4CE0-4409-A114-651FC4885B4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevOps1", "..\DevOps1\DevOps1.csproj", "{BC9BD5B3-E129-45C7-8E88-B65B972E70F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A1405640-4CE0-4409-A114-651FC4885B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1405640-4CE0-4409-A114-651FC4885B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1405640-4CE0-4409-A114-651FC4885B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1405640-4CE0-4409-A114-651FC4885B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC9BD5B3-E129-45C7-8E88-B65B972E70F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9BD5B3-E129-45C7-8E88-B65B972E70F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9BD5B3-E129-45C7-8E88-B65B972E70F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9BD5B3-E129-45C7-8E88-B65B972E70F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
